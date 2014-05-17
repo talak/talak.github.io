@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Talak]]></title>
+  <link href="http://talak.github.io/atom.xml" rel="self"/>
+  <link href="http://talak.github.io/"/>
+  <updated>2014-05-17T21:37:29+08:00</updated>
+  <id>http://talak.github.io/</id>
+  <author>
+    <name><![CDATA[Talak]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
