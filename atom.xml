@@ -4,7 +4,7 @@
   <title><![CDATA[Talak]]></title>
   <link href="http://talak.github.io/atom.xml" rel="self"/>
   <link href="http://talak.github.io/"/>
-  <updated>2014-05-18T00:30:04+08:00</updated>
+  <updated>2014-05-18T01:06:29+08:00</updated>
   <id>http://talak.github.io/</id>
   <author>
     <name><![CDATA[Talak]]></name>
@@ -18,7 +18,37 @@
     <link href="http://talak.github.io/blog/2014/05/17/first/"/>
     <updated>2014-05-17T21:40:35+08:00</updated>
     <id>http://talak.github.io/blog/2014/05/17/first</id>
-    <content type="html"><![CDATA[<p>None</p>
+    <content type="html"><![CDATA[<p>text my blog</p>
+
+<ul>
+<li>abab
+
+<ul>
+<li>sasd
+
+<ol>
+<li> ands</li>
+</ol>
+</li>
+</ul>
+</li>
+</ul>
+
+
+<p><a href="http://acgzone.us">福利</a></p>
+
+<pre><code>略吊
+</code></pre>
+
+<blockquote><p>text1</p>
+
+<blockquote><p>text2</p>
+
+<blockquote><p>text3</p>
+
+<blockquote><p>text4</p></blockquote></blockquote></blockquote></blockquote>
+
+<p><img src="http://i2.pixiv.net/img68/img/cozyquilt/43507536_m.png" alt="pixivimg" /></p>
 ]]></content>
   </entry>
   
