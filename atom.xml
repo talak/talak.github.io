@@ -4,7 +4,7 @@
   <title><![CDATA[Talak]]></title>
   <link href="http://talak.github.io/atom.xml" rel="self"/>
   <link href="http://talak.github.io/"/>
-  <updated>2014-05-17T21:37:29+08:00</updated>
+  <updated>2014-05-17T21:58:09+08:00</updated>
   <id>http://talak.github.io/</id>
   <author>
     <name><![CDATA[Talak]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[First Blog]]></title>
+    <link href="http://talak.github.io/blog/2014/05/17/first/"/>
+    <updated>2014-05-17T21:40:35+08:00</updated>
+    <id>http://talak.github.io/blog/2014/05/17/first</id>
+    <content type="html"><![CDATA[<p>None</p>
+]]></content>
+  </entry>
   
 </feed>
