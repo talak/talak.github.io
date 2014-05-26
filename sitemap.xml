@@ -6,7 +6,11 @@
     </url>
     <url>
         <loc>http://talak.github.io/blog/2014/05/22/textflash/</loc>
-        <lastmod>2014-05-22T21:56:15+08:00</lastmod>
+        <lastmod>2014-05-23T02:19:53+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://talak.github.io/blog/2014/05/26/mymp3/</loc>
+        <lastmod>2014-05-26T21:29:32+08:00</lastmod>
     </url>
     <url>
         <loc>http://talak.github.io/about-me/</loc>
@@ -14,7 +18,7 @@
     </url>
     <url>
         <loc>http://talak.github.io/blog/archives/</loc>
-        <lastmod>2014-05-22T21:56:15+08:00</lastmod>
+        <lastmod>2014-05-26T21:29:32+08:00</lastmod>
     </url>
     <url>
         <loc>http://talak.github.io/blog/categories/</loc>
@@ -22,6 +26,10 @@
     </url>
     <url>
         <loc>http://talak.github.io/</loc>
-        <lastmod>2014-05-22T21:56:15+08:00</lastmod>
+        <lastmod>2014-05-26T21:29:32+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://talak.github.io/robots.txt</loc>
+        <lastmod>2014-05-23T02:12:03+08:00</lastmod>
     </url>
 </urlset>
